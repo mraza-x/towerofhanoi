@@ -1,10 +1,3 @@
-/**
-Mohammed Raza
-CS 241 
-Fall 2013
-Programming Assignment 1
-November 7, 2013
-*/
 
 import java.util.Scanner;
 
